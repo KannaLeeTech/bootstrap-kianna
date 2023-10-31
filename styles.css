@@ -1,0 +1,17 @@
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: yellow !important;
+}
+.btn-dark{
+    background-color: turquoise !important;
+}
+footer{
+    padding: 10px;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 25px;
+}
+footer p {
+    margin-bottom: 0 !important;
+}
